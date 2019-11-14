@@ -1,8 +1,7 @@
 {
-  "name": "whats-in-meal",
+  "name": "recipebox",
   "homepage": "http://nnekaen.github.io/myapp",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.9.0",
@@ -20,7 +19,7 @@
     "extends": "react-app"
   },
     "publishConfig": { 
-        "registry": "https://npm.pkg.github.com/nnekaen" 
+        "registry": "https://npm.pkg.github.com/" 
     },
   "browserslist": {
     "production": [
