@@ -1,7 +1,7 @@
 {
-  "name": "recipebox",
-  "homepage": "http://nnekaen.github.io/myapp",
-  "version": "0.1.0",
+  "name": "whats-in-meal",
+  "homepage": "http://nnekaen.github.io/recipebox",
+  "version": "0.2.0",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.9.0",
