@@ -1,5 +1,5 @@
 {
-  "name": "recipebox",
+  "name": "@nnekaen/recipebox",
     "public":true,
   "homepage": "http://nnekaen.github.io/recipebox",
   "version": "1.0.0",
