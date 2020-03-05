@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/recipebox/static/css/main.b100e6da.chunk.css",
+    "main.js": "/recipebox/static/js/main.23d72d68.chunk.js",
+    "main.js.map": "/recipebox/static/js/main.23d72d68.chunk.js.map",
+    "runtime-main.js": "/recipebox/static/js/runtime-main.587b6812.js",
+    "runtime-main.js.map": "/recipebox/static/js/runtime-main.587b6812.js.map",
+    "static/css/2.de424728.chunk.css": "/recipebox/static/css/2.de424728.chunk.css",
+    "static/js/2.066d8b14.chunk.js": "/recipebox/static/js/2.066d8b14.chunk.js",
+    "static/js/2.066d8b14.chunk.js.map": "/recipebox/static/js/2.066d8b14.chunk.js.map",
+    "index.html": "/recipebox/index.html",
+    "precache-manifest.12e3a19a320138d2395543103965703c.js": "/recipebox/precache-manifest.12e3a19a320138d2395543103965703c.js",
+    "service-worker.js": "/recipebox/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/recipebox/static/css/2.de424728.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/recipebox/static/css/main.b100e6da.chunk.css.map",
+    "static/media/beef.png": "/recipebox/static/media/beef.e66321ab.png"
+  }
+}
