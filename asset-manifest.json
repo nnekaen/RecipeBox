@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RecipeBox/static/css/main.ee55e077.chunk.css",
+    "main.css": "/RecipeBox/static/css/main.add12252.chunk.css",
     "main.js": "/RecipeBox/static/js/main.6f9139b7.chunk.js",
     "main.js.map": "/RecipeBox/static/js/main.6f9139b7.chunk.js.map",
     "runtime-main.js": "/RecipeBox/static/js/runtime-main.775df25b.js",
@@ -9,10 +9,10 @@
     "static/js/2.cd69e41e.chunk.js": "/RecipeBox/static/js/2.cd69e41e.chunk.js",
     "static/js/2.cd69e41e.chunk.js.map": "/RecipeBox/static/js/2.cd69e41e.chunk.js.map",
     "index.html": "/RecipeBox/index.html",
-    "precache-manifest.f8a08e03f07c59973c072a2aa797acaf.js": "/RecipeBox/precache-manifest.f8a08e03f07c59973c072a2aa797acaf.js",
+    "precache-manifest.2598164fad97c8a2d60ce8aba63c3b5b.js": "/RecipeBox/precache-manifest.2598164fad97c8a2d60ce8aba63c3b5b.js",
     "service-worker.js": "/RecipeBox/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/RecipeBox/static/css/2.de424728.chunk.css.map",
-    "static/css/main.ee55e077.chunk.css.map": "/RecipeBox/static/css/main.ee55e077.chunk.css.map",
+    "static/css/main.add12252.chunk.css.map": "/RecipeBox/static/css/main.add12252.chunk.css.map",
     "static/media/restaurant.css": "/RecipeBox/static/media/background.62fe084c.jpg",
     "static/media/beef.png": "/RecipeBox/static/media/beef.e66321ab.png"
   }
